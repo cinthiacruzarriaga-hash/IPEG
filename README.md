@@ -39,6 +39,14 @@ CERTIFICADOS
 
 <div class="card">
     <h2>Información Personal</h2>
+    <p><span class="label">ID Diploma:</span> 19439</p>
+    <p><span class="label">Institución:</span> Instituto Peruano de Gobierno - IPEG</p>
+    <p><span class="label">Curso/PE:</span> ADMINISTRACIÓN Y GESTIÓN PÚBLICA</p>
+    <p><span class="label">Inicio:</span> 11 de octubre de 2023</p>
+    <p><span class="label">Fin:</span> 09 de diciembre de 2023</p>
+    <p><span class="label">Horas:</span> 240</p>
+    <p><span class="label">Fecha de expedición:</span> 14 de diciembre de 2023</p>
+    <p><span class="label">Promedio final:</span> VEINTE(20)</p>
     <p><span class="label">DNI:</span> 71081156</p>
     <p><span class="label">Apellidos:</span> CRUZ ARRIAGA</p>
     <p><span class="label">Nombres:</span> CINTHIA</p>
